@@ -1,0 +1,4 @@
+Name: Yewon Lee
+Assignment: LinkedList
+Attribution: Lab Instructor Tayloe, Professor Heather Pon-Barry
+Difficulties: It was hard to understand the structure of linked list and combine them with termination. I thought I have to use while loop since I was too focused on finding the right position to add the argument. However, by reorganizing my thought process with Tayloe's list of questions, I realized that if the argument is not supposed to be added at last, it must return negative integer for its compareTo method. Therefore, I used for loop and ran until it finds the spot that returns the negative number after running compareTo method.
